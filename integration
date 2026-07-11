@@ -1631,7 +1631,6 @@
   "mayerwin/HA-Real-Last-Changed-Reported-Seen-Sensors",
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
-  "mbillow/ha-redpocket",
   "mbuchber/ha_heliotherm",
   "mcapmari/ha-djv_meter",
   "mchwalisz/home-assistant-senec",
